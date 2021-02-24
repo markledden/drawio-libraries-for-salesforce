@@ -1,5 +1,5 @@
 # Diagram Icons for Salesforce Flow
-> An XML library for use in Draw.io (diagrams.net). The icons allow for quick mockups of Salesforce Flows and a more realistic representatio than using the standard shapes.
+An XML library for use in Draw.io (diagrams.net). The icons allow for quick mockups of Salesforce Flows and a more realistic representation than using the standard shapes.
 
 ![Draw.io Example Diagram](https://github.com/markledden/Salesforce-Flow-Diagram-Icons/blob/main/Images/Salesforce%20Screen%20Flow%20Mockup.JPG?raw=true)
 
